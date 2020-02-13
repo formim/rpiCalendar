@@ -1,0 +1,10 @@
+arrow==0.14.7
+beautifulsoup4==4.8.2
+bs4==0.0.1
+python-dateutil==2.8.0
+requests==2.22.0
+selenium==3.141.0
+six==1.12.0
+soupsieve==1.9.5
+TatSu==4.4.0
+urllib3==1.25.6
